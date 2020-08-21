@@ -4,13 +4,13 @@ An assignment for devpoints boot camp class
 
 ## Basic Objectives:
 
-the user chooses from a list of main dishes
+the user chooses from a list of main dishes [done]
 
-the user chooses 2 side dish items
+the user chooses 2 side dish items [done]
 
-computer repeats users order
+computer repeats users order [done]
 
-computer totals lunch items and displays total
+computer totals lunch items and displays total [done]
 
  
 
